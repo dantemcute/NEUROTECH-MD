@@ -13,10 +13,10 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 
 
 const config = {
-    session: process.env.SESSION_ID || 'Allamano',
+    session: process.env.SESSION_ID || 'dante mcute',
     PREFIXE: process.env.PREFIX || ".",
     OWNER_NAME: process.env.OWNER_NAME || "Allamano",
-    NUMERO_OWNER: process.env.NUMERO_OWNER || "254785760507",     
+    NUMERO_OWNER: process.env.NUMERO_OWNER || "254114191358",     
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',    
     URL: process.env.URL || "https://files.catbox.moe/grlqyj.png",                         
     AUTO_BLOCK: process.env.AUTO_BLOCK || 'no', 
